@@ -10,13 +10,6 @@ Skills: HTML / CSS / Java / Python / Javascript
 - 🌱 I’m currently learning JavaScript 
 - 😄 Pronouns: he/him 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayden/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jayden)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/JAE-boi)  
-
-
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAE-exe)](https://github.com/anuraghazra/github-readme-stats)
 
 
