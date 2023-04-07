@@ -11,6 +11,7 @@ Skills: HTML / CSS / Java / Python / Javascript
 - 😄 Pronouns: he/him 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/JAE-boi)  
 
 
 
