@@ -11,6 +11,6 @@ Skills: HTML / CSS / Java / Python / Javascript
 - 😄 Pronouns: he/him 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAE-exe)](https://github.com/anuraghazra/github-readme-stats)
-
+![Profile views](https://gpvc.arturio.dev/JAE-exe)
 
 
