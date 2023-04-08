@@ -4,7 +4,7 @@ I'm from Mumbai,India and I am pursuing B.Tech IT from Thadomal Shahani Engineer
 
 
 
-Skills: HTML / CSS / Java / Python / Javascript
+Skills: HTML / CSS / Java / Python / Javascript / C++
 
 - 🔭 I’m currently working on a fully functional webpage 
 - 🌱 I’m currently learning JavaScript 
