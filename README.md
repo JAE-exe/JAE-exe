@@ -8,7 +8,6 @@ Skills: HTML / CSS / Java / Python / Javascript
 
 - 🔭 I’m currently working on a fully functional webpage 
 - 🌱 I’m currently learning JavaScript 
-- 😄 Pronouns: he/him 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAE-exe)](https://github.com/anuraghazra/github-readme-stats)
 
