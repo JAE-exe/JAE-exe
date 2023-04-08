@@ -15,3 +15,4 @@ Skills: HTML / CSS / Java / Python / Javascript
 ![Profile views](https://gpvc.arturio.dev/JAE-exe)
 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb)
