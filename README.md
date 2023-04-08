@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jayden
 #### I am a student .
-I'm from Mumbai,India and I am a student pursuing B.Tech IT from Thadomal Shahani Engineering College. I am currently learning Web-Dev and really enjoy it. I also enjoy AI. Catch me at LinkedIn: www.linkedin.com/in/jayden-desouza
+I'm from Mumbai,India and I am pursuing B.Tech IT from Thadomal Shahani Engineering College. I am currently learning Web-Dev and really enjoy it. I also enjoy AI. Catch me at LinkedIn: www.linkedin.com/in/jayden-desouza
 
 
 
