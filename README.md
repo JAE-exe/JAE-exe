@@ -11,6 +11,6 @@ Skills: HTML / CSS / Java / Python / Javascript / C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAE-exe)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/JAE-exe)
+![](https://komarev.com/ghpvc/?username=JAE-exe&color=brightgreen)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb)
