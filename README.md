@@ -12,7 +12,7 @@ Skills: HTML / CSS / Java / Python / Javascript / C++
 - 🌱 I’m currently learning JavaScript 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAE-exe)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAE-exe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=JAE-exe&color=brightgreen)
 
