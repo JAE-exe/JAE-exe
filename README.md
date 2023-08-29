@@ -7,7 +7,7 @@ Skills: HTML / CSS / Java / Python / Javascript / C++
 - 🔭 I’m currently working on a fully functional webpage 
 - 🌱 I’m currently learning JavaScript 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ![](https://komarev.com/ghpvc/?username=JAE-exe&color=brightgreen)
 
