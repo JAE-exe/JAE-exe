@@ -10,6 +10,12 @@ Skills: HTML / CSS / Java / Python / Javascript / C++
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=JAE-exe&color=brightgreen)
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb)
