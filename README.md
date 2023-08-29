@@ -8,7 +8,7 @@ Skills: HTML / CSS / Java / Python / Javascript / C++
 - 🌱 I’m currently learning JavaScript 
 
 
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JAE-exe)
 ![](https://komarev.com/ghpvc/?username=JAE-exe&color=brightgreen)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb)
