@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayden De Souza</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jae-exe&label=Profile%20views&color=0e75b6&style=flat" alt="jae-exe" /> </p>
+
 - 🔭 I’m currently working on **a fully responsive website**
 
 - 🌱 I’m currently learning **Javascript and React.js**
@@ -21,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jae-exe&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jae-exe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jae-exe&show_icons=true&theme=dracula&title_color=084777&text_color=ffffff&bg_color=2c7ace&locale=en" alt="jae-exe" /></p>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb)
