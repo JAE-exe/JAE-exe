@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jaydendesouza2005@gmail.com**
 
-- ⚡ Fun fact **Your mom thinks I'm funny.**
+- ⚡ Fun fact **I make jokes when I'm uncomfortable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
