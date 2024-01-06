@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayden De Souza</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jae-exe&label=Profile%20views&color=0e75b6&style=flat" alt="jae-exe" /> </p>
 
 - 🔭 I’m currently working on **a fully responsive website**
 
-- 🌱 I’m currently learning **Javascript and React.js**
+- 🌱 I’m currently learning **Python and it's various libraries for AI/ML**
 
 - 📫 How to reach me **jaydendesouza2005@gmail.com**
 
