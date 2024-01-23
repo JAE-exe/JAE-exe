@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jae-exe&label=Profile%20views&color=0e75b6&style=flat" alt="jae-exe" /> </p>
 
-- 🔭 I’m currently working on **a fully responsive website**
+- 🔭 I’m currently working on **a full stack website**
 
 - 🌱 I’m currently learning **Python and it's various libraries for AI/ML**
 
