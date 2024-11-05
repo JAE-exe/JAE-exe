@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.JS, Data Science and Machine Learning**
 
-- 💬 Ask me about **React,css and c++**
-
 - 📫 How to reach me **jaydendesouza2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
