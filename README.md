@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jae-exe&" alt="jae-exe" /></p>
 
-<p>(https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb)</p>
+<p><img src="https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb"/></p>
