@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SQL and Kafka**
 
-- 🌱 I’m currently learning **Kafka, Hadoop , PowerBI and Tableau**
+- 🌱 I’m currently learning **Kafka, Hadoop , PowerBI and Tableau,Advanced Statistics and Hypothesis Theory,Econometrics**
 
 - 💬 Ask me about **Web Development**
 
