@@ -25,6 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jae-exe&show_icons=true&theme=dracula&title_color=084777&text_color=ffffff&bg_color=2c7ace&locale=en" alt="jae-exe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jae-exe&" alt="jae-exe" /></p>
-
-<p><img src="https://spotify-recently-played-readme.vercel.app/api?user=xinfoptsszxnzsklb3u339akb"/></p>
