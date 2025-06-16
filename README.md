@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jae-exe&label=Profile%20views&color=0e75b6&style=flat" alt="jae-exe" /> </p>
 
-- 🔭 I’m currently working on **SQL and Kafka**
+- 🔭 I’m currently working on **PowerBI and Kafka**
 
 - 🌱 I’m currently learning **Kafka, Hadoop , PowerBI and Tableau,Advanced Statistics and Hypothesis Theory,Econometrics**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **jaydendesouza2005@gmail.com**
 
